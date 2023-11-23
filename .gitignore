@@ -1,2 +1,4 @@
 
 html2slim.pyc
+*.pyc
+HTML2Slim.sublime-workspace

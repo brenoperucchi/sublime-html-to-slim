@@ -1,3 +1,19 @@
+HTML2Slim now includes customizable settings, allowing you to tailor the environment to your specific development needs
+
+Navigate to Preferences -> Package Settings -> HTML2Slim -> Settings User
+
+- "default_user_path": "/Users/your_username/" - This sets the base path for your user environment.
+- "default_rails_path": "/Users/your_username/your_railsproject" - This specifies the path to your Rails project directory.
+
+### Requirements:
+- HTML2Slim version 0.2.3 - https://github.com/brenoperucchi/html2slim
+- RBENV for managing Ruby environments.
+
+Please Let me know if you have any issues.
+
+Original Content:
+
+--------------------------------------------------------------------------------------------------------------------------
 # HTML to Slim plugin for Sublime Text 3
 
 Converts files, selection and clipboard content from HTML or ERB to Slim using the [htm2slim gem](https://github.com/slim-template/html2slim).

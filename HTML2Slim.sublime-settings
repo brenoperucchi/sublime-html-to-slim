@@ -1,0 +1,7 @@
+{
+    // "default_user_path" sets the base path for the user, used for configuring environment paths and other user-related variables.
+    "default_user_path": "/Users/your_username/",
+
+    // "default_rails_path" specifies the path to the Rails project directory, used for setting up the Rails development environment.
+    "default_rails_path": "/Users/your_username/your_railsproject"
+}
