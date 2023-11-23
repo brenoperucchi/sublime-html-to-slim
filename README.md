@@ -11,6 +11,14 @@ Navigate to Preferences -> Package Settings -> HTML2Slim -> Settings User
 
 Please Let me know if you have any issues.
 
+Clone the repository in your Sublime Text "Packages" directory:
+* OS X:
+
+    ```bash
+    cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages
+    git clone https://github.com/brenoperucchi/html2slim.git "HTML2Slim"
+    ```
+
 Original Content:
 
 --------------------------------------------------------------------------------------------------------------------------
